@@ -1,2 +1,7 @@
 requests
 PyYAML
+websockets
+pycryptodome
+numpy
+pandas
+yfinance
